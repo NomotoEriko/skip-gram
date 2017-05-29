@@ -1,0 +1,4 @@
+max_epoch: 13
+window size: 3
+negative sample: 12
+embedding size: 100
